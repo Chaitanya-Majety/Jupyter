@@ -2,3 +2,7 @@
 Jupyter Notebooks/NLP/Amazon_Fine_Food_Reviews_Analysis/database.sqlite
 Jupyter Notebooks/NLP/Amazon_Fine_Food_Reviews_Analysis/Reviews.csv
 Jupyter Notebooks/NLP/Amazon_Fine_Food_Reviews_Analysis/final.sqlite
+Jupyter Notebooks/ML/Naive Bayes/6_Donors_choose_NB/preprocessed_data.csv
+Jupyter Notebooks/ML/Naive Bayes/6_Donors_choose_NB/glove_vectors
+Jupyter Notebooks/ML/Naive Bayes/6_Donors_choose_NB/train_data.csv
+Jupyter Notebooks/ML/Naive Bayes/6_Donors_choose_NB/resources.csv
