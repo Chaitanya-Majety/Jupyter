@@ -34,3 +34,5 @@ Jupyter Notebooks/EDA/Microsoft_Malware_detection/result.csv
 Jupyter Notebooks/EDA/Microsoft_Malware_detection/trainLabels.csv
 Jupyter Notebooks/EDA/Facebook/data.zip
 Jupyter Notebooks/EDA/Microsoft_Malware_detection/Archive.zip
+Jupyter Notebooks/Deep Learning/Callbacks/logs
+Jupyter Notebooks/Deep Learning/Callbacks/model_save
